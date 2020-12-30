@@ -2,6 +2,7 @@
 title: novemberizing
 url: https://novemberizing.github.io
 baseurl: "/blog"
+tagline: "to be novemberizing"
 paginate: 1
 permalink: pretty
 
