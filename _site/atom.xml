@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>novemberizing</title>
+    <link href="/blog/atom.xml" rel="self" />
+    <link href="https://novemberizing.github.io/blog/" />
+    <updated>2020-12-30T11:57:59+09:00</updated>
+    <id>https://novemberizing.github.io/blog</id>
+    <author>
+        <name>novemberizing<</name>
+        <email>novemberizing@gmail.com<</email>
+    </author>
+
+
+    <entry>
+        <title>HELLOWORLD</title>
+        <link href="https://novemberizing.github.io/blog//2020/12/30/HELLOWORLD/" />
+        <updated>2020-12-30T00:00:00+09:00</updated>
+        <id>https://novemberizing.github.io/blog//2020/12/30/HELLOWORLD</id>
+        <content type="html">&lt;p&gt;HELLO WORLD&lt;/p&gt;
+</content>
+    </entry>
+
+
+</feed>
